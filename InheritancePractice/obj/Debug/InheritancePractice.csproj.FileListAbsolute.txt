@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe.config
+C:\Users\WeCanCodeIT\source\repos\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe
+C:\Users\WeCanCodeIT\source\repos\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.pdb
+C:\Users\WeCanCodeIT\source\repos\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.exe
+C:\Users\WeCanCodeIT\source\repos\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.pdb
